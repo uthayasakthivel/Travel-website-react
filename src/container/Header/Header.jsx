@@ -1,7 +1,7 @@
 import React from "react"
 
 import { Button, SubHeading } from "../../components"
-import images from "../../constants"
+import { images } from "../../constants"
 import "./Header.css"
 
 const Header = () => (
